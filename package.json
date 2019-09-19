@@ -1,0 +1,19 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "description": "Learning typescript with Pluralsight",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Enanaky/typescript01.git"
+  },
+  "author": "Ignacio Petrone",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Enanaky/typescript01/issues"
+  },
+  "homepage": "https://github.com/Enanaky/typescript01#readme"
+}
