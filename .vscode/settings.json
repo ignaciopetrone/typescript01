@@ -39,7 +39,7 @@
 
   "problems.decorations.enabled": false,
 
-  "terminal.integrated.fontSize": 14,
+  "terminal.integrated.fontSize": 15,
   "terminal.integrated.fontFamily": "",
 
   "workbench.colorCustomizations": {
@@ -52,5 +52,5 @@
 
   "workbench.statusBar.visible": true,
 
-  "window.zoomLevel": -1
+  "window.zoomLevel": -0.2
 }
